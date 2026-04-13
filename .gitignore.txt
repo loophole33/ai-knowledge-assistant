@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit 缓存
+.streamlit/
+
+# 本地测试文件
+knowledge.txt
+*.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
